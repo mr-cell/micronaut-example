@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronaut-example
+endpoints:
+  info:
+    enabled: true
+    sensitive: false
